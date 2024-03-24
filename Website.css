@@ -1,0 +1,17 @@
+/* Custom CSS styles */
+
+/* Example custom styling for the welcome section */
+.welcome-section {
+  background-color: #f8f9fa;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Example custom styling for the footer */
+.footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
